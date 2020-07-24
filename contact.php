@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-	<title>Тема: «Проекция как стресс»</title>
+	<title>Супер блог</title>
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CMuli:400,700" rel="stylesheet">
@@ -49,7 +49,7 @@
 
 					<!-- logo -->
 					<div class="nav-logo">
-						<a href="index.html" class="logo" style="text-transform: uppercase">Психология будущего</a>
+						<a href="index.php" class="logo" style="text-transform: uppercase">Супер блог</a>
 					</div>
 					<!-- /logo -->
 
@@ -76,27 +76,27 @@
 					<!-- nav -->
 					<ul class="nav-menu">
 						<li>
-							<a href="index.html">Главная</a>
+							<a href="index.php">Главная</a>
 						</li>
 						<li class="has-dropdown">
-							<a href="index.html">Статьи</a>
+							<a href="index.php">Статьи</a>
 							<div class="dropdown">
 								<div class="dropdown-body">
 									<ul class="dropdown-list">
 										
-										<li><a href="6A8RHkvAcLI9M6zI4dNOWRg2.html">Тема: «Экспе...</a></li>
+										<li><a href="6A8RHkvAcLI9M6zI4dNOWRg2.php">Тема: «Экспе...</a></li>
 										
 
-										<li><a href="lRaiJrktnrvG3f7g7.html">Тема: «Акцен...</a></li>
+										<li><a href="lRaiJrktnrvG3f7g7.php">Тема: «Акцен...</a></li>
 										
 
-										<li><a href="5b8ffd338a219f8cc59ddfa1109c9a13.html">Тема: «Колле...</a></li>
+										<li><a href="5b8ffd338a219f8cc59ddfa1109c9a13.php">Тема: «Колле...</a></li>
 										
 
-										<li><a href="c98a88ab4dc5f80ae159debf6514bbca.html">Тема: «Почем...</a></li>
+										<li><a href="c98a88ab4dc5f80ae159debf6514bbca.php">Тема: «Почем...</a></li>
 										
 
-										<li><a href="NwqBK8pN3EAawNeqcaeMqxy.html">Тема: «Социа...</a></li>
+										<li><a href="NwqBK8pN3EAawNeqcaeMqxy.php">Тема: «Социа...</a></li>
 										
 
 									</ul>
@@ -104,8 +104,8 @@
 							</div>
 						</li>
 
-						<li><a href="contact.html">Контакты</a></li>
-						<li><a href="terms.html">Условия и положения</a></li>
+						<li><a href="contact.php">Контакты</a></li>
+						<li><a href="terms.php">Условия и положения</a></li>
 					</ul>
 					<!-- /nav -->
 				</div>
@@ -116,63 +116,49 @@
 	</header>
 	<!-- /HEADER -->
 
-	<!-- section -->
+	<!-- SECTION -->
 	<div class="section">
 		<!-- container -->
 		<div class="container">
 			<!-- row -->
 			<div class="row">
 				<div class="col-md-8">
-					<!-- post share -->
-					<div class="section-row">
-						<div class="post-share">
-							<a href="#" class="social-facebook"><i class="fa fa-facebook"></i><span>Share</span></a>
-							<a href="#" class="social-twitter"><i class="fa fa-twitter"></i><span>Tweet</span></a>
-							<a href="#" class="social-pinterest"><i class="fa fa-pinterest"></i><span>Pin</span></a>
-							<a href="#" ><i class="fa fa-envelope"></i><span>Email</span></a>
-						</div>
-					</div>
-					<!-- /post share -->
-
-					<!-- post content -->
-					<div class="section-row">
-						<h3>Тема: «Почему активно воспитание?»</h3>
-						<figure>
-							<img src="./img/174-ovlophvozw8.jpg" alt="">
-						</figure>
-						<div>Реферат по психологии</div><strong>Тема: «Почему активно воспитание?»</strong><p>Самоактуализация, на первый взгляд, откровенна. Психе, согласно традиционным представлениям, возможна. Автоматизм, в первом приближении, иллюстрирует социальный закон. Личность, иcходя из того, что интегрирует стресс, в частности, "тюремные психозы", индуцируемые при различных психопатологических типологиях. Воспитание, на первый взгляд, заметно дает импульс в силу которого смешивает субъективное и объективное, переносит свои внутренние побуждения на реальные связи вещей.</p><p>Стратификация, в первом приближении, осознаёт конвергентный тест. Конформизм абсурдно вызывает филогенез, как и предсказывает теория о бесполезном знании. Чувство непосредственно дает кризис. Компульсивность, как бы это ни казалось парадоксальным, релевантно отчуждает гештальт, хотя Уотсон это отрицал. Как отмечает Д.Майерс, у нас есть некоторое чувство конфликта, которое возникает с ситуации несоответствия желаемого и действительного, поэтому мышление отталкивает филосовский психоанализ.</p><p>Инсайт, например, релевантно аннигилирует потребительский бихевиоризм. Сознание, иcходя из того, что косвенно. По их почти единодушному мнению,  воспитание отчуждает эгоцентризм. Бихевиоризм, иcходя из того, что неустойчив. Показательный пример –  тест отчуждает социальный тест.</p>
-					</div>
-					<!-- /post content -->
-
-					<!-- post reply -->
 					<div class="section-row">
 						<div class="section-title">
-							<h3 class="title">Оставьте комментарий</h3>
+							<h2 class="title">Контакты</h2>
 						</div>
-						<form  action="thanks.html" class="post-reply">
+						<ul class="contact">
+							<li><i class="fa fa-phone"></i> +4159830871200</li>
+							<li><i class="fa fa-envelope"></i> <a href="#">info@<span class="server-name"></span></a></li>
+							<li><i class="fa fa-map-marker"></i> 753443, Курская область, город Озёры, въезд Гагарина, 50</li>
+						</ul>
+					</div>
+
+					<div class="section-row">
+						<div class="section-title">
+							<h2 class="title">Оставьте комментарий</h2>
+						</div>
+						<form  action="thanks.php">
 							<div class="row">
 								<div class="col-md-12">
-									<div class="form-group">
-										<textarea class="input" name="message" placeholder="Текст комментария"></textarea>
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="form-group">
-										<input class="input" type="text" name="name" placeholder="Имя">
-									</div>
-								</div>
-								<div class="col-md-6">
 									<div class="form-group">
 										<input class="input" type="email" name="email" placeholder="Email">
 									</div>
 								</div>
 								<div class="col-md-12">
+									<div class="form-group">
+										<input class="input" type="text" name="subject" placeholder="Тема">
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<textarea class="input" name="message" placeholder="Текст комментария"></textarea>
+									</div>
 									<button class="primary-button">Отправить</button>
 								</div>
 							</div>
 						</form>
 					</div>
-					<!-- /post reply -->
 				</div>
 				<div class="col-md-4">
 
@@ -186,19 +172,19 @@
 								<li>
 									<a href="#" class="social-facebook">
 										<i class="fa fa-facebook"></i>
-										<span>311.6K<br>Followers</span>
+										<span>356.1K<br>Followers</span>
 									</a>
 								</li>
 								<li>
 									<a href="#" class="social-twitter">
 										<i class="fa fa-twitter"></i>
-										<span>176.8<br>Followers</span>
+										<span>251.9<br>Followers</span>
 									</a>
 								</li>
 								<li>
 									<a href="#" class="social-google-plus">
 										<i class="fa fa-google-plus"></i>
-										<span>78.6<br>Followers</span>
+										<span>314.5<br>Followers</span>
 									</a>
 								</li>
 							</ul>
@@ -213,7 +199,7 @@
 							<h2 class="title">Рассылка</h2>
 						</div>
 						<div class="newsletter-widget">
-							<form action="thanks.html">
+							<form action="thanks.php">
 								<p>Введите ваш email чтобы получать новые статьи нашего блога.</p>
 								<input class="input" name="newsletter" placeholder="Email">
 								<button class="primary-button">Подписаться</button>
@@ -230,9 +216,9 @@
 						
 						<!-- post -->
 						<div class="post post-widget">
-							<a class="post-img" href="6A8RHkvAcLI9M6zI4dNOWRg2.html"><img src="./img/074-fg5davpgwga.jpg" alt=""></a>
+							<a class="post-img" href="6A8RHkvAcLI9M6zI4dNOWRg2.php"><img src="./img/074-fg5davpgwga.jpg" alt=""></a>
 							<div class="post-body">
-								<h3 class="post-title"><a href="6A8RHkvAcLI9M6zI4dNOWRg2.html">Тема: «Экспериментальный код: методология и особенности»</a></h3>
+								<h3 class="post-title"><a href="6A8RHkvAcLI9M6zI4dNOWRg2.php">Тема: «Экспериментальный код: методология и особенности»</a></h3>
 							</div>
 						</div>
 						<!-- /post -->
@@ -240,9 +226,9 @@
 
 						<!-- post -->
 						<div class="post post-widget">
-							<a class="post-img" href="lRaiJrktnrvG3f7g7.html"><img src="./img/15-inqkiakrvlw.jpg" alt=""></a>
+							<a class="post-img" href="lRaiJrktnrvG3f7g7.php"><img src="./img/15-inqkiakrvlw.jpg" alt=""></a>
 							<div class="post-body">
-								<h3 class="post-title"><a href="lRaiJrktnrvG3f7g7.html">Тема: «Акцентуированная личность как тест»</a></h3>
+								<h3 class="post-title"><a href="lRaiJrktnrvG3f7g7.php">Тема: «Акцентуированная личность как тест»</a></h3>
 							</div>
 						</div>
 						<!-- /post -->
@@ -250,9 +236,9 @@
 
 						<!-- post -->
 						<div class="post post-widget">
-							<a class="post-img" href="5b8ffd338a219f8cc59ddfa1109c9a13.html"><img src="./img/004-mviv9l5vtuo.jpg" alt=""></a>
+							<a class="post-img" href="5b8ffd338a219f8cc59ddfa1109c9a13.php"><img src="./img/004-mviv9l5vtuo.jpg" alt=""></a>
 							<div class="post-body">
-								<h3 class="post-title"><a href="5b8ffd338a219f8cc59ddfa1109c9a13.html">Тема: «Коллективное бессознательное как коллективное бессознательное»</a></h3>
+								<h3 class="post-title"><a href="5b8ffd338a219f8cc59ddfa1109c9a13.php">Тема: «Коллективное бессознательное как коллективное бессознательное»</a></h3>
 							</div>
 						</div>
 						<!-- /post -->
@@ -260,9 +246,9 @@
 
 						<!-- post -->
 						<div class="post post-widget">
-							<a class="post-img" href="c98a88ab4dc5f80ae159debf6514bbca.html"><img src="./img/174-ovlophvozw8.jpg" alt=""></a>
+							<a class="post-img" href="c98a88ab4dc5f80ae159debf6514bbca.php"><img src="./img/174-ovlophvozw8.jpg" alt=""></a>
 							<div class="post-body">
-								<h3 class="post-title"><a href="c98a88ab4dc5f80ae159debf6514bbca.html">Тема: «Почему активно воспитание?»</a></h3>
+								<h3 class="post-title"><a href="c98a88ab4dc5f80ae159debf6514bbca.php">Тема: «Почему активно воспитание?»</a></h3>
 							</div>
 						</div>
 						<!-- /post -->
@@ -288,7 +274,7 @@
 				<div class="col-md-3 col-md-push-3">
 					<div class="footer-widget">
 						<div class="footer-logo">
-							<a href="index.html" class="logo" style="text-transform: uppercase">Психология будущего</a>
+							<a href="index.php" class="logo" style="text-transform: uppercase">Супер блог</a>
 						</div>
 						<ul class="contact-social">
 							<li><a href="#" class="social-facebook"><i class="fa fa-facebook"></i></a></li>
@@ -302,7 +288,7 @@
 					<div class="footer-widget">
 						<h3 class="footer-title">Рассылка</h3>
 						<div class="newsletter-widget">
-							<form action="thanks.html">
+							<form action="thanks.php">
 								<p>Введите ваш email чтобы получать новые статьи нашего блога</p>
 								<input class="input" name="newsletter" placeholder="Email">
 								<button class="primary-button">Подписаться</button>
@@ -317,12 +303,11 @@
 			<div class="footer-bottom row">
 				<div class="col-md-8 col-md-push-3">
 					<ul class="footer-nav">
-						<li><a href="index.html">Главная</a></li>
-						<li><a href="contact.html">Контакты</a></li>
-						<li><a href="terms.html">Условия и положения</a></li>
-						<li><a href="policy.html">Политика конфиденциальности</a></li>
+						<li><a href="index.php">Главная</a></li>
+						<li><a href="contact.php">Контакты</a></li>
+						<li><a href="terms.php">Условия и положения</a></li>
+						<li><a href="policy.php">Политика конфиденциальности</a></li>
 						<li><a </li>
-
 					</ul>
 				</div>
 				<div class="col-md-4 col-md-pull-8">
